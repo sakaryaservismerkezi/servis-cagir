@@ -1,1 +1,6 @@
+# Sakarya Servis Merkezi - Robots.txt
+User-agent: *
+Allow: /
 
+# Arama Motoru Botları İçin Site Haritası Konumu
+Sitemap: https://sakaryaservismerkezi.github.io/sitemap.xml
